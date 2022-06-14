@@ -1,0 +1,11 @@
+{
+  "name": "slapdash-command",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zephyr-mo/slapdash-command.git",
+  "author": "dengzefeng <dengzefeng@joyy.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@slapdash/command-response-types": "^1.0.5"
+  }
+}
